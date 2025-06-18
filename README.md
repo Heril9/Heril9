@@ -15,4 +15,10 @@ Hey there! I'm Heril, a computer science student by day 🌞 and an aspiring AI 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+  ![snake gif](https://github.com/Heril9/Heril9/blob/output/github-snake-dark.svg)
