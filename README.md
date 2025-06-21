@@ -57,5 +57,4 @@ During my TridhyaTech internship, I spearheaded development of a high‑performa
 ```
 
 
-![snake gif](https://raw.githubusercontent.com/Heril9/Heril9/main/output/github-snake-dark.svg)
 
