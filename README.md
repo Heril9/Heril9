@@ -54,7 +54,6 @@ During my TridhyaTech internship, I spearheaded development of a high‑performa
 ---
 
 *Let’s connect—I’m always open to collaboration.*  
-```
 
 
 
