@@ -11,6 +11,8 @@ I use financial mathematics to calibrate stochastic risk models, applying Black�
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:herilgit9@gmail.com)
+[![X](https://img.shields.io/badge/X-@HerilTech-1DA1F2?logo=twitter&logoColor=white)](https://x.com/HerilTech)
+
 
 ## Currently Working On
 
@@ -44,7 +46,7 @@ During my TridhyaTech internship, I spearheaded development of a high‑performa
 ![](https://nirzak-streak-stats.vercel.app/?user=Heril9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Heril9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✨ Dev Insight
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
@@ -55,7 +57,5 @@ During my TridhyaTech internship, I spearheaded development of a high‑performa
 ```
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://raw.githubusercontent.com/Heril9/Heril9/main/output/github-snake-dark.svg)
 
-
-  ![snake gif](https://github.com/Heril9/Heril9/blob/output/github-snake-dark.svg)
